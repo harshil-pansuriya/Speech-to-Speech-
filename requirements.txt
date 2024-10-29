@@ -1,0 +1,5 @@
+gtts
+speechrecognition
+streamlit
+transformers
+torch
